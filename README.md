@@ -3,7 +3,7 @@ Voice commerce is a technology that helps reduce the end-users’ dependence on 
 In this project multi level IVR system is used to shop products in walmart app using voice commands.
 
 Buy a phone number or use a trial phone number in twilio.
-Configure the phone number so that the function welcome.
+Configure the phone number so that the voice call is redirected to function welcome.
 In the runtime - functions, create JavaScript functions.
 You also get a URL for each function that can be copied and run in browser.
 Deploy all the files.
